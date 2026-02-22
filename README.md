@@ -5,7 +5,7 @@ Google Apps Script（GAS）で動作する、家計管理LINEボットです。
 Gmail通知・PayPay通知・LINEコマンドを連携し、
 残高管理・月次集計・目標管理を自動化します。
 
-(構成図)[./構成図,img]
+(構成図)[./構成図.img]
 
 ---
 
