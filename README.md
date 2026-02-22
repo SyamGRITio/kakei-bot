@@ -1,0 +1,2 @@
+# kakei-bot
+Moneyforwardに課金したくない夫が妻のために共通口座管理LINEBotを作ってみた
